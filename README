@@ -1,1 +1,3 @@
 Repository to hold all eyecandy related stuff, like themes, system fonts, wallpapers, etc.
+
+Use stow to link all to your $HOME
